@@ -13,4 +13,8 @@ console.log(typeof(a))
 a=23;
 console.log(a)
 
+let b= "swapnil panbude"
+console.log(b)
+console.log(typeof(b))
+
 
