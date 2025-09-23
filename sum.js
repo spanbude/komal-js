@@ -4,3 +4,4 @@ var b=20
 var c= a+b
 
 console.log(c)
+console.log(typeof(c))
